@@ -1,7 +1,9 @@
 venv/
+download/
 __pycache__/
 *.ini
 .eggs/
+*.log
 *.egg-info
 dist/
 build/
