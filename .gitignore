@@ -1,5 +1,6 @@
 venv/
 download/
+downloads/
 __pycache__/
 *.ini
 .eggs/
